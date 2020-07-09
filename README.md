@@ -1,6 +1,5 @@
 <html>
 <head>
- <title>html - practice</title>
  <meta charset="utf-8">
 </head>
 <body>
